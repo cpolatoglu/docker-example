@@ -4,6 +4,7 @@ bin/**
 build/**
 gradle/**
 repo/**
+.gradle/**
 
 # Compiled source #
 ###################
